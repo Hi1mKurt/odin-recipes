@@ -1,2 +1,3 @@
 # odin-recipes
 HTML assignment 
+Practice HTML knowledge by creating a webpage with a main index page which will have links to a few recipes. Skills used include ...
